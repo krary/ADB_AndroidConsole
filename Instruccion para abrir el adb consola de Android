@@ -1,0 +1,11 @@
+Descargar la carpeta donde tenemos el adb
+Abrir el telefono he ir a configuracion
+En numero de compilacion de las propiedades de software darle varias veces hasta que nos diga ya somos desarrolladores
+Dentro de configuracion buscar donde dice Opciones_de_Desarrollador
+Activa la Depuracion de el USB
+Activar en permitir instalar por via USB ("Nota las caracteristicas de todos los telefonos son similares pero no iguales Buscar ayudo en caso de necesidad para 
+activar el Bootloader o Depuracion USB" ).
+Abrir el cmd de la PC.
+Navegar hasta dentro de la carpeta donde tenemos todos los archivos de el adb..
+Ejecutar el comando adb shell
+Ya esta listo...                                   <<Nota: no nos hace falta ejecutar ningun archivo de instalacion solo seguir los paso antes expuesto
