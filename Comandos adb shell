@@ -1,0 +1,4 @@
+**********************************************************
+Para abrir la camara
+adb shell am start -a android.media.action.IMAGE_CAPTURE
+**********************************************************
