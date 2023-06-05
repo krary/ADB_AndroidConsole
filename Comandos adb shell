@@ -2,3 +2,13 @@
 Para abrir la camara
 adb shell am start -a android.media.action.IMAGE_CAPTURE
 **********************************************************
+
+*********************************************************
+Para abrir la memoria interna y ver en la terminal
+adb cd /sdcard/
+*********************************************************
+
+
+*********************************************************
+Copiar archivos de la pc al telefono
+push C:/Users/nombre/Desktop/archivo.txt /sdcard
