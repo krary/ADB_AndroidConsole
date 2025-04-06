@@ -19,3 +19,9 @@ push C:/Users/nombre/Desktop/archivo.txt /sdcard
 Copiar archivos de el telefono a la pc
 pull /sdcard/nombre.archivo.txt  C:/Users/nombre/Desktop/
 ========================================================
+
+**********************************************************
+Listar apk instaladas
+adb shell pm list packages
+===========================================================
+
